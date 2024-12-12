@@ -1,14 +1,13 @@
 # Hi! 👋 I'm Faith Stieferman
 
-## 🚀 Currently navigating..
+## Currently navigating:
 - 🌱 New tech landscapes
 - 🚀 Product management magic
 - 🌍 Building digital worlds in the fediverse
 
 ### Quick facts:
-- 👀 collecting programming languages 
 -  🏆 Product Management Certified 
--  💞️Design enthusiast who puts users first
+-  💞️ Design enthusiast who puts users first
 
 ### Let's connect!
 - 📫 My digital homebase: [faithns.link](https://faithns.link)
